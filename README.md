@@ -1,2 +1,2 @@
-# apuntes_clasica
-Apuntes del ramo Mecánica Clásica I
+# apuntes_mecanica_de_fluidos
+Apuntes del ramo Mecánica de Fluidos
